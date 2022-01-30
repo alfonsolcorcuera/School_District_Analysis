@@ -15,7 +15,9 @@ After cleansing the data set, we will show a comparison of the results of the Sc
 
 
 ## School District Analysis Results
+
 ##District Summary
+
 The District Summary had changes in the following items: Average math score, % passing math, % passing reading and % overall passing. However, differences at the aggregate level do not seem material.
 
 Below you will find a comparison for such items in both scenarios.
@@ -29,6 +31,7 @@ After Adjustment:
 ![](District_Summary_After.png)
 
 ##School Summary
+
 The School Summary only had changes in the Thomas High School items, since it was the only school which data was cleansed. Specifically, the changes are in the average math and reading scores, as well as the % passing math, % passing reading and % overall passing. However, differences do not seem material.
 
 Below you will find a comparison of the school summary in both scenarios.
@@ -42,6 +45,7 @@ After Adjustment:
 ![](School_Summary_After.png)
 
 ##School Performance Ranking
+
 There was no change in the position of Thomas High School in the school ranking, it remained as the second-best school in the district, despite that its % overall passing score decreased from 90.94% to 90.63%. Below you will find a comparison of the top 5 schools in both scenarios.
 
 Prior to Adjustment:
@@ -53,6 +57,7 @@ After Adjustment:
 ![](Ranking_After.png)
 
 ##Average math and reading scores for each grade level from each school
+
 In both scenarios, there were no changes in the average math and reading scores for each grade level from each school; with the exception of Thomas High School which 9th graders average math and reading scores appear as *nan* after the Adjustment (no changes for 10 to 12th graders average math and reading scores).
 
 Prior to Adjustment:
@@ -76,6 +81,7 @@ After Adjustment:
 ![](Math_After.png)
 
 ## Schools scores breakdown by: Spending per student, size and type
+
 In both scenarios and the three types of breakdowns (i.e. spending per student, size and type) there were no changes in the average math and reading scores, % passing math, % passing reading and % overall passing. 
 
 Below you will find the summary figures in both scenarios for the three types of breakdowns:
