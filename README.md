@@ -24,11 +24,11 @@ Below you will find a comparison for such items in both scenarios.
 
 Prior to Adjustment:
 
-![](District_Summary_Prior.png)
+![](District_Summary_Prior.PNG)
 
 After Adjustment:
 
-![](District_Summary_After.png)
+![](District_Summary_After.PNG)
 
 ### School Summary
 
@@ -88,15 +88,15 @@ Below you will find the summary figures in both scenarios for the three types of
 
 *School Spending per Student*
 
-![](Spending.png)
+![](Spending.PNG)
 
 *School Size*
 
-![](Size.png)
+![](Size.PNG)
 
 *School Type*
 
-![](Type.png)
+![](Type.PNG)
 
 
 ## School District Analysis Summary
