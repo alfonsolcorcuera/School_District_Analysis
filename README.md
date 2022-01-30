@@ -16,7 +16,7 @@ After cleansing the data set, we will show a comparison of the results of the Sc
 
 ## School District Analysis Results
 
-##District Summary
+### District Summary
 
 The District Summary had changes in the following items: Average math score, % passing math, % passing reading and % overall passing. However, differences at the aggregate level do not seem material.
 
