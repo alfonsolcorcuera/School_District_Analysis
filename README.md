@@ -1,7 +1,7 @@
 # School District Analysis
 
 
-## Overview of the School District Analysis
+## School District Analysis Overview
 We are advising Maria, the Chief Data Scientist of a school district, in cleansing, preparing and analyzing data from standardized tests of the schools of the district she covers. With the former she will be able to identify performance trends and patterns that will be useful to lead discussions and strategic decisions at school and district level.
 
 In this specific analysis, Maria and her supervisor were notified that there is evidence of academic dishonesty; specifically, reading and math scores for Thomas High School ninth graders appear to have been altered. Therefore, we will cleanse the data set by removing both reading and math scores of Thomas High School ninth graders (the “Adjustment”).
