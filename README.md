@@ -107,4 +107,4 @@ After reading and math scores for the ninth grade at Thomas High School were rep
 3.	Thomas High School % overall passing score decreased from 90.94% to 90.63%, however it remained as the second-best school in the district
 4.	Thomas High School 9th graders average math and reading scores appear as *nan* and there were no changes for 10 to 12th graders average math and reading scores
 
-Finally, at an aggregate and consolidated level, the adjustment appears not to have a material impact.
+Finally, at an aggregate level the adjustment appears not to have a material impact, therefore school district consolidated results seem not to vary.
