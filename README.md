@@ -101,7 +101,7 @@ Below you will find the summary figures in both scenarios for the three types of
 
 ## School District Analysis Summary
 
-After reading and math scores for the ninth grade at Thomas High School were replaced with *nans*, the main four changes of our analysis are:
+After reading and math scores for the ninth grade at Thomas High School were replaced with *nans*, the main four changes of our analysis were:
 1.	The District Summary had changes in the average math score, % passing math, % passing reading and % overall passing
 2.	The School Summary only had changes in the Thomas High School items, since it was the only school which data was adjusted. Specifically, the changes are in the average math and reading scores, % passing math, % passing reading and % overall passing
 3.	Thomas High School % overall passing score decreased from 90.94% to 90.63%, however it remained as the second-best school in the district, despite that its % overall passing score decreased from 90.94% to 90.63%
